@@ -1,0 +1,2 @@
+# start
+auto script photoshop
